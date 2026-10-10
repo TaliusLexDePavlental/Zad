@@ -1,2 +1,0 @@
-# Zad
-Adacha
